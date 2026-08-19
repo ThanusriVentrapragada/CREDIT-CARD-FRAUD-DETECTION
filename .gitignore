@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/creditcard.csv
+X_test.pkl
+y_test.pkl
